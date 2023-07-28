@@ -1,7 +1,7 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, soy Óscar Arroyo 👋
 ### Pianista y profesor de piano, aunque también hago mis pinitos en programación sobre Swift.
 
-![https://github.com/arroyot24]([https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png](http://www.oscararroyo.es/wp-content/uploads/2016/05/Óscar-Arroyo.jpg)])
+![https://github.com/arroyot24]([http://www.oscararroyo.es/wp-content/uploads/2016/05/Óscar-Arroyo.jpg])
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
