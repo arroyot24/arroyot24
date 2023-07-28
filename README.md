@@ -1,5 +1,5 @@
 # Hola, soy Óscar Arroyo 👋
-### Pianista y profesor de piano, aunque también hago mis pinitos en programación para iOS y MacOS con Swift.
+### Pianista y profesor de piano, también hago mis pinitos en programación para iOS y MacOS con Swift.
 
 ![https://github.com/arroyot24](http://www.oscararroyo.es/wp-content/uploads/2023/07/Horizontal.png)
 
