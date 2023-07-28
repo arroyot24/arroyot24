@@ -3,7 +3,8 @@
 
 ![https://github.com/arroyot24](http://www.oscararroyo.es/wp-content/uploads/2023/07/Horizontal.png)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/arroyot24?sub_confirmation=1)
+![https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social](https://img.shields.io/youtube/channel/subscribers/UC8jyCYNHWgqEnCBvcuGcm_w
+)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arroyot24?style=social)](https://twitter.com/arroyot24)
 ![GitHub Followers](https://img.shields.io/github/followers/arroyot24?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/arroyot24?style=social)
