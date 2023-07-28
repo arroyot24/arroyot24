@@ -22,21 +22,10 @@ Curioso por naturaleza y gran aficionado a la tecnología, he puesto en marcha d
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/arroyot24)
+[![YouTube](https://img.shields.io/badge/YouTube-arroyot24-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/arroyot24)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/arroyot24)
-[![Instagram](https://img.shields.io/badge/Instagram-@arroyot24-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@oscar.arroyoterron-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/oscar.arroyoterron.35)
+[![Twitter](https://img.shields.io/badge/Twitter-@arroyot24-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/arroyot24)
+[![Instagram](https://img.shields.io/badge/Instagram-arroyot24-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Facebook](https://img.shields.io/badge/Facebook-@oscar.arroyoterron.35-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/oscar.arroyoterron.35)
 </br>
 [![Web](https://img.shields.io/badge/Web-oscararroyo.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://oscararroyo.es)
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-
-## Contacto:
-
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-
