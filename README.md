@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, soy Óscar Arroyo 👋
+# Hola, soy Óscar Arroyo 👋
 ### Pianista y profesor de piano, aunque también hago mis pinitos en programación sobre Swift.
 
 ![https://github.com/arroyot24]([http://www.oscararroyo.es/wp-content/uploads/2016/05/Óscar-Arroyo.jpg])
